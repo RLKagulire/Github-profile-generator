@@ -1,8 +1,5 @@
-# React + Vite
+# Github Profile Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This App helps a user find any github profile by entering the username of an account they are interested in viewing.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It uses HTML, Tailwind CSS, and React JS
